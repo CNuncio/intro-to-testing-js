@@ -3,6 +3,6 @@
 //     return "Hello, World!"
 // }
 
-function hello(){
-return 'Hello!'
+function hello() {
+    return 'Hello!'
 }
